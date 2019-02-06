@@ -3,7 +3,7 @@ order: 0
 title:
   zh-CN: 水平登录栏
   en-US: Horizontal Login Form
----
+---components/form/demo/horizontal-login.md
 
 ## zh-CN
 
